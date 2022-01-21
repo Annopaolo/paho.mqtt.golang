@@ -24,7 +24,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/ispirata/paho.mqtt.golang/packets"
+	"github.com/Annopaolo/paho.mqtt.golang/packets"
 )
 
 /**********************************************

@@ -22,7 +22,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/ispirata/paho.mqtt.golang/packets"
+	"github.com/Annopaolo/paho.mqtt.golang/packets"
 )
 
 const (

@@ -24,7 +24,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ispirata/paho.mqtt.golang/packets"
+	"github.com/Annopaolo/paho.mqtt.golang/packets"
 )
 
 // OrderedMemoryStore uses a map internally so the order in which All() returns packets is

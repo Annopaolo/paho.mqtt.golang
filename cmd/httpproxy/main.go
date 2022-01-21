@@ -34,7 +34,7 @@ import (
 	"syscall"
 	"time"
 
-	MQTT "github.com/ispirata/paho.mqtt.golang"
+	MQTT "github.com/Annopaolo/paho.mqtt.golang"
 )
 
 func onMessageReceived(_ MQTT.Client, message MQTT.Message) {

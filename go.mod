@@ -1,4 +1,4 @@
-module github.com/ispirata/paho.mqtt.golang
+module github.com/Annopaolo/paho.mqtt.golang
 
 go 1.14
 
